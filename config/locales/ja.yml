@@ -1,0 +1,13 @@
+ja:
+  activerecord:
+    models:
+      schedule: タイトル
+    attributes:
+      schedule:
+        title: タイトル
+        start_day: 開始日
+        finish_day: 終了日
+        memo: メモ
+  time:
+    formats:
+      default: "%Y年%m月%d日"
